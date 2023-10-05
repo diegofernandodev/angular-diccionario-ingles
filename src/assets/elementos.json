@@ -1,0 +1,126 @@
+{
+    "frutas": [
+      {
+        "nombre": "Apple",
+        "foto": "https://live.staticflickr.com/3509/3220923006_6160044bd0_z.jpg",
+        "audio": "Apple"
+      },
+      {
+        "nombre": "Banana",
+        "foto": "https://live.staticflickr.com/2147/2148008166_70305d64a7_z.jpg",
+        "audio": "banana"
+      },
+      {
+        "nombre": "Orange",
+        "foto": "https://live.staticflickr.com/65535/52673939201_411f009d66_z.jpg",
+        "audio": "Orange"
+      },
+      {
+        "nombre": "Strawberry",
+        "foto": "https://live.staticflickr.com/8518/8395757902_35e9faa14e_z.jpg",
+        "audio": "Strawberry"
+      },
+      {
+        "nombre": "Grape",
+        "foto": "https://live.staticflickr.com/8045/8388122369_7020ff3e5b_z.jpg",
+        "audio": "Grape"
+      },
+      {
+        "nombre": "Pear",
+        "foto": "https://live.staticflickr.com/3038/2572821081_e6eb1d8db8_z.jpg",
+        "audio": "Pear"
+      }
+    ],
+    "vocales": [
+      {
+        "nombre": "A",
+        "foto": "https://live.staticflickr.com/172/431815689_23b41a601e_z.jpg",
+        "audio": "A"
+      },
+      {
+        "nombre": "E",
+        "foto": "https://live.staticflickr.com/1212/1430360278_125902e430_z.jpg",
+        "audio": "E"
+      },
+      {
+        "nombre": "I",
+        "foto": "https://live.staticflickr.com/1468/25594275214_d7637de794.jpg",
+        "audio": "I"
+      },
+      {
+        "nombre": "O",
+        "foto": "https://live.staticflickr.com/65535/51152719954_cf3e75f9db.jpg",
+        "audio": "O"
+      },
+      {
+        "nombre": "U",
+        "foto": "https://live.staticflickr.com/4037/4297190223_9c8be1afbe.jpg",
+        "audio": "U"
+      }
+    ],
+    "animales": [
+      {
+        "nombre": "Dog",
+        "foto": "https://live.staticflickr.com/2856/13837220544_cc54fb0fec_k.jpg",
+        "audio": "Dog"
+      },
+      {
+        "nombre": "Cat",
+        "foto": "https://live.staticflickr.com/3210/2591908473_0a8cf6dc78_z.jpg",
+        "audio": "Cat"
+      },
+      {
+        "nombre": "Elephant",
+        "foto": "https://live.staticflickr.com/3021/2710285889_193502b1ee_z.jpg",
+        "audio": "Elephant"
+      },
+      {
+        "nombre": "Lion",
+        "foto": "https://live.staticflickr.com/2858/11958541904_e855bc2ede_z.jpg",
+        "audio": "Lion"
+      },
+      {
+        "nombre": "Tiger",
+        "foto": "https://live.staticflickr.com/3778/9163707587_09d57ec18a_z.jpg",
+        "audio": "Tiger"
+      },
+      {
+        "nombre": "Zebra",
+        "foto": "https://live.staticflickr.com/7505/16065135978_0037f4d4f7_z.jpg",
+        "audio": "Zebra"
+      }
+    ],
+    "colores": [
+      {
+        "nombre": "Red",
+        "foto": "https://live.staticflickr.com/5512/30723202992_b4096f7043_z.jpg",
+        "audio": "Red"
+      },
+      {
+        "nombre": "Blue",
+        "foto": "https://live.staticflickr.com/7477/15714474803_398474c275_z.jpg",
+        "audio": "Blue"
+      },
+      {
+        "nombre": "Green",
+        "foto": "https://live.staticflickr.com/5480/9164294715_c91bbd9d2b_z.jpg",
+        "audio": "Green"
+      },
+      {
+        "nombre": "Yellow",
+        "foto": "https://live.staticflickr.com/5576/15062065861_2bbb8a048a_z.jpg",
+        "audio": "Yellow"
+      },
+      {
+        "nombre": "Orange",
+        "foto": "https://live.staticflickr.com/7326/10498424506_f780656c53_z.jpg",
+        "audio": "Orange"
+      },
+      {
+        "nombre": "Violet",
+        "foto": "https://live.staticflickr.com/1571/24815320485_9eec81f57e_z.jpg",
+        "audio": "violet"
+      }
+    ]
+  }
+  

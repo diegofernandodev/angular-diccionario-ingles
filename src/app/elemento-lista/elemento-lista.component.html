@@ -1,0 +1,28 @@
+
+<!-- <div class="container contenedor-categoria">
+  <div class="row">
+    <h1>Categoría: {{ categoria }}</h1>
+
+  <div *ngFor="let elemento of elementos">
+    <h2>{{ elemento.nombre }}</h2>
+    <img [src]="elemento.foto" [alt]="elemento.nombre" />
+    <button (click)="reproducirAudio(elemento.audio)">Reproducir Audio</button>
+  </div>
+  </div>
+  
+</div> -->
+<div class="container contenedor-categoria">
+  <h1 class="text-center">Categoría: {{ categoria }}</h1>
+
+  <div class="row">
+    <div *ngFor="let elemento of elementos" class="col-md-6">
+      <div class="elemento">
+        <h2>{{ elemento.nombre }}</h2>
+        <img [src]="elemento.foto" [alt]="elemento.nombre" class="img-fluid img-categoria" />
+        <button (click)="reproducirAudio(elemento.audio)" class="btn btn-primary btn-audio">Listen</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+

@@ -1,0 +1,40 @@
+.menu-ingles{
+    width: 100%;
+    background-color: #0a3ce0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 3rem;
+    position: fixed;
+    top: 3rem;
+}
+/* .titulo-menu-ingles{
+    text-align: center;
+    color: #ffffff;
+    
+} */
+/* .menu-ingles-nav{
+    
+    width: 20rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #333333;
+} */
+.menu-ingles-a{
+    text-decoration: none;
+    margin: 0 2rem;
+    padding: 0 1rem;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.menu-ingles-a:hover {
+    background-color: #007bff; /* Cambia el color de fondo al azul */
+    font-size: 1.7em; /* Aumenta el tamaño de fuente en un 10% */
+    transition: background-color 0.3s, font-size 0.3s; /* Agrega transiciones suaves */
+    border-radius: 5px;
+  }

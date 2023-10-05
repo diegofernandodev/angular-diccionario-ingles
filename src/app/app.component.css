@@ -1,0 +1,10 @@
+.titulo-dic-h1 {
+    position: fixed;
+    top: 0; /* Ajusta la posición superior según tu necesidad */
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: azure;
+    z-index: 2;
+  }
+  

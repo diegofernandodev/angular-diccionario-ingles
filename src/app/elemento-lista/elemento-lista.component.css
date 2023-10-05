@@ -1,0 +1,14 @@
+.contenedor-categoria{
+   margin-top: 7rem;
+}
+
+.img-categoria {
+    height: 400px;
+    width: 600px;
+    /* Puedes ajustar la altura según tus preferencias */
+  }
+
+.btn-audio{
+    margin-top: 5px;
+}
+  
